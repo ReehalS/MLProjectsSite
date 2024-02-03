@@ -1,0 +1,28 @@
+#Next.js build output
+.next/
+.frontend/.next/
+.frontend/out/
+frontend/.next/
+frontend/.next/cache/webpack/*
+frontend/.next/cache/webpack/
+
+# Next.js specific cache files
+.frontend/.next/cache/*
+
+# Next.js tracing files
+.frontend/.next/trace
+
+#Local development environment
+.DS_Store
+
+node_modules/
+.env
+server/venv
+
+# python cache files
+__pycache__/
+*.py[cod]
+
+server/venv
+server/myenv
+server/venv
